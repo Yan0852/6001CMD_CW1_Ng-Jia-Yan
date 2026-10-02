@@ -1,0 +1,22 @@
+,Data Type,Unique Values,Missing Values
+customerID,object,7043,0
+gender,object,2,0
+SeniorCitizen,int64,2,0
+Partner,object,2,0
+Dependents,object,2,0
+tenure,int64,73,0
+PhoneService,object,2,0
+MultipleLines,object,3,0
+InternetService,object,3,0
+OnlineSecurity,object,3,0
+OnlineBackup,object,3,0
+DeviceProtection,object,3,0
+TechSupport,object,3,0
+StreamingTV,object,3,0
+StreamingMovies,object,3,0
+Contract,object,3,0
+PaperlessBilling,object,2,0
+PaymentMethod,object,4,0
+MonthlyCharges,float64,1585,0
+TotalCharges,object,6531,0
+Churn,object,2,0
